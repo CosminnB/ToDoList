@@ -1,0 +1,46 @@
+﻿body {
+    background-color:#ffa852 !important;
+   
+}
+.linethrough{
+    text-decoration:line-through;
+}
+ul{
+    list-style-type:none;
+
+        
+}
+li{
+    display:flex;
+    margin:10px;
+}
+li button{
+    padding:2px;
+    width:72px;
+    height:42px;
+
+}
+li p{
+    padding:10px;
+}
+
+i{
+    font-size:40px;
+}
+i:hover{
+    cursor:pointer;
+    color:green;
+}
+h1{
+    text-align:center;
+    margin:30px !important;
+}
+.interior{
+    margin:auto;
+    width:50%;
+    text-align:center;
+}
+.list{
+    display:table;
+    margin:0 auto;
+}
